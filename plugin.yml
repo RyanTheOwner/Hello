@@ -1,6 +1,6 @@
 name: Hello
-main: RyanTheDev\Hello\Main
+main: RyanTheOwner\Hello\Main
 version: 4.0
 api: [3.0.0, 3.2.0]
-author: RyanTheDev
+author: RyanTheOwner
 description: You are welcomed with a “Hello” when joining the server
